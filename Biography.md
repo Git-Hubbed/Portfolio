@@ -1,6 +1,7 @@
 # Portfolio
 Here you can find all documents relevant to my portfolio: a Small biography, my Resume, and case studies.
 
+
 ## Biography
 Hi, my name is João Rebelo Pinto. This biography is an overview of my life path until now, and what led me to create a Data Analytics Portfolio.
 
@@ -14,5 +15,7 @@ Hopefully this has given you some insight into my path. I'm always free to conne
 
 Thank you for reading.
 
+
 With best regards,
+
 João Rebelo Pinto
